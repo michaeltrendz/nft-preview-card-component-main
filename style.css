@@ -92,10 +92,10 @@ background-size: cover;
 
 
 #line {
-  width: 120%;
-  border-top: 0.5px solid ##578AAD;
-  margin: 25px -30px; 
-  margin-top: 220%;
+  width: 150%;
+  border-top: 0.5px solid #578AAD;
+  margin: 25px -45px; 
+  margin-top: 240%;
   top: 5%;
   right: 95%;
 }
